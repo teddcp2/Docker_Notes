@@ -1,0 +1,14 @@
+{
+  "name": "demo-node-project-with-docker-1",
+  "version": "1.0.0",
+  "description": "A Demo node project to lear docker",
+  "main": "server.js",
+  "author": "teddy",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "1.19.0"
+  },
+  "scripts": {
+    "run" : "node server.js"
+  }
+}
